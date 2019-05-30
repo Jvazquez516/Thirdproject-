@@ -1,0 +1,11 @@
+body {
+  background-color: grey;
+}
+
+.wrapper {
+  width: 800px;
+  max-width: 90%;
+  margin: auto;
+  text-align: center;
+}
+
